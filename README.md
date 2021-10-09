@@ -10,4 +10,4 @@ All Python code was put into the ADM_HW1.ipynb. I organize the order, and you ca
 
 If you have any other questions of my homework, you can contact me by gmail\<zhangxufeng1998@gmail.com\>  or \<xufeng_zhang@qq.com\>.
 
-*Because I am a first year student of Data science，I don't have a institutional email. So I do my homework with my personal gmail address.
+*Because I am a first year student of Data science，I don't have an institutional email. So I do my homework with my personal gmail address.
