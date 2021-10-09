@@ -6,7 +6,7 @@ In the homework1, we need to submit these 2 files as mentioned in Homework PDF f
 
 In my Github repository, Allsubmission_PDF.pdf is submission proof that created in *https://www.hackerrank.com/submissions/all*.
 
-All Python code was put into the ADM_HW1.ipynb. I organize the order, and you can see it clearly. For your convenience, I also create a PDF file of code which named "ALL Code PDF.pdf", you can preview my code by click it.
+All Python code was put into the ADM_HW1.ipynb. I organize the order as they appear in the homework pdf file, and you can see it clearly. 
 
 If you have any other questions of my homework, you can contact me by gmail\<zhangxufeng1998@gmail.com\>  or \<xufeng_zhang@qq.com\>.
 
