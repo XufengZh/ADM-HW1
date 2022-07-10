@@ -8,6 +8,6 @@ In my Github repository, Allsubmission_PDF.pdf is submission proof that created 
 
 All Python code was put into the ADM_HW1.ipynb. I organize the order as they appear in the homework pdf file, and you can see it clearly. 
 
-If you have any other questions of my homework, you can contact me by gmail\<zhangxufeng1998@gmail.com\>  or \<xufeng_zhang@qq.com\>.
+If you have any other questions of my homework, you can contact me by gmail\<zhangxufeng1998@gmail.com\>.
 
 *Because I am a first year student of Data science，I don't have an institutional email. So I do my homework with my personal gmail address.
